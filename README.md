@@ -6,7 +6,7 @@
 
 * 一键运行脚本命令（推荐访问Github困难用户使用）
 
-`sh -c "$(wget -qO- https://mirror.ghproxy.net/https://github.com/Aceak/iSH-Tools/raw/main/iSH-Tools-Setup-CN.sh)"`
+`sh -c "$(wget -qO- https:/ghproxy.net/https://github.com/Aceak/iSH-Tools/raw/main/iSH-Tools-Setup-CN.sh)"`
 
 # 覆盖脚本内置变量
 
