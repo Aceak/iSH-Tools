@@ -15,7 +15,7 @@ error_times=0
 HOST="${HOST:="www.baidu.com"}" # 网络检测 ping 的域名
 NAMESERVER="${NAMESERVER:="223.5.5.5"}" # 当遇到域名解析故障时替换的DNS服务器
 Github_Url="${Github_Url:="https://github.com"}"
-Mirror_Url="${Mirror_Url:="https://mirror.ghproxy.com/https://github.com"}" # 默认使用的Github镜像
+Mirror_Url="${Mirror_Url:="https://mirror.ghproxy.net/https://github.com"}" # 默认使用的Github镜像
 Mirror_Repo="${Mirror_Repo:="http://mirrors.tuna.tsinghua.edu.cn"}" # 默认替换的镜像源链接
 Bypass_Check="${Bypass_Check:=0}" # 1：跳过网络&地区检查 Net：只跳过网络检查 Loc：只跳过地区检查
 Dev_Mode="${Dev_Mode:=0}" # 允许运行在非iSH下的Alpine
